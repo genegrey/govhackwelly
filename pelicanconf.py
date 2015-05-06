@@ -7,9 +7,18 @@ SITENAME = u'GovHack Wellington'
 SITEURL = ''
 
 PATH = 'content'
+
+ARTICLE_PATHS = ['articles']
+
 STATIC_PATHS = ['images']
+
 THEME_PATHS = ['themes']
 THEME = 'themes/pelican-bootstrap3'
+
+BANNER = 'images/govhackwellingtonbanner.png'
+BANNER_SUBTITLE = 'empower.enable.connect'
+BANNER_ALL_PAGES = True
+#HEADER_IMAGE = 'images/GovHackFinalTaglineColourStickerStyle.png'
 
 TIMEZONE = 'Pacific/Auckland'
 

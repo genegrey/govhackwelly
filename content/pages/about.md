@@ -1,7 +1,7 @@
 Title: About
 Date: 2015-04-30 21:21
 Modified:
-sortorder: 2
+sortorder: 1
 Category: info
 Tags: info, general
 Slug: about

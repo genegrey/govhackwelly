@@ -1,7 +1,7 @@
 Title: Resources
 Date: 2015-04-30 21:40
 Modified:
-sortorder: 3
+sortorder: 2
 Category: info
 Tags: video, info, general
 Slug: resources

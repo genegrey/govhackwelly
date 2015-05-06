@@ -1,7 +1,7 @@
 Title: Code of conduct
 Date: 2015-04-30 20:50
 Modified: 
-sortorder: 4
+sortorder: 3
 Category: rules
 Tags: code of conduct, behaviour
 Slug: code-of-conduct
