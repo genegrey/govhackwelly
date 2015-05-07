@@ -79,7 +79,7 @@ function start_up(){
     echo "The HTTP server didn't start. Is there another service using port" $port "?"
     return 1
   fi
-  echo 'Pelican and HTTP server processes now running in background.'
+  echo 'Pelican and HTTP server processes now running in background. http://0.0.0.0:$port'
 }
 
 ###

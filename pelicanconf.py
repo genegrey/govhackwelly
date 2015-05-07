@@ -56,7 +56,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 
 #Authors
 SHOW_ARTICLE_AUTHOR = True
-SHOW_ARTICLE_CATEGORY - True
+SHOW_ARTICLE_CATEGORY = True
 
 #Tipue search
 #PLUGINS = ['tipuesearch']
