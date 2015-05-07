@@ -8,6 +8,8 @@ SITEURL = ''
 
 PATH = 'content'
 
+PAGE_PATHS = ['pages']
+
 ARTICLE_PATHS = ['articles']
 
 STATIC_PATHS = ['images']
@@ -45,3 +47,18 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+#Tags
+TAG_CLOUD_MAX_ITEMS = 10
+
+#Categories
+DISPLAY_CATEGORIES_ON_MENU = False
+
+#Authors
+SHOW_ARTICLE_AUTHOR = True
+SHOW_ARTICLE_CATEGORY - True
+
+#Tipue search
+#PLUGINS = ['tipuesearch']
+
+
