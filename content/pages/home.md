@@ -24,3 +24,17 @@ In Wellington, it'll be held:
 
 [Register for GovHack Wellington](http://www.eventbrite.co.nz/e/govhack-wellington-tickets-16287880489)
 
+##Reasons to GovHack
+
+1. To have fun
+2. To make friends
+3. To learn something new
+4. To build something cool
+5. Free food
+6. Prizes
+7. Connect with people
+8. To show off your skills
+9. To get noticed
+10. To share your ideas
+11. To try out new technology
+

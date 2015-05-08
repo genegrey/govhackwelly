@@ -27,11 +27,18 @@ You're going to need to produce a 3 minute video if you want to submit your proj
 
 [Check out the Resources page for tips and tricks]({filename}/pages/resources.md)
 
+##The awards
+While the event is very relaxed, it's also a competition. Your video will be used by judges to decide on the winners of the event, who will get PRIZES.
+
+We're not sure what yet, but they'll be amazing!
+
 ##The event's details
 
 * **Dates and times:** 5:30pm 3 July - 5:30pm 5 July (subject to slight change)
 * **Venue:** Ground floor, Ministry of Business, Innovation and Employment, 15 Stout Street, Wellington
 * **Cost:** Free
+
+There is also an afterparty and awards event on Wednesday, 15 July.peli
 
 [Register for GovHack Wellington](http://www.eventbrite.co.nz/e/govhack-wellington-tickets-16287880489)
 

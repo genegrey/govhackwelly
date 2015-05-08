@@ -9,7 +9,6 @@ Lang: en
 Authors: aimee whitcroft
 Summary: GovHack Wellington is dedicated to providing a harassment-free hackathon experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
 
-
 GovHack Wellington is dedicated to providing a harassment-free hackathon experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. 
 
 We do not tolerate harassment of hackathon participants in any form. Sexual language and imagery is not appropriate for any part of the hackathon venue, including talks.
