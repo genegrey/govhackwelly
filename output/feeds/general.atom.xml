@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>GovHack Wellington</title><link href="http://genegrey.github.io/govhackwelly/" rel="alternate"></link><link href="http://genegrey.github.io/govhackwelly/feeds/general.atom.xml" rel="self"></link><id>http://genegrey.github.io/govhackwelly/</id><updated>2015-05-08T00:00:00+12:00</updated><entry><title>Isn't hacking bad?</title><link href="http://genegrey.github.io/govhackwelly/isnt-hacking-bad.html" rel="alternate"></link><updated>2015-05-08T00:00:00+12:00</updated><author><name>aimee whitcroft</name></author><id>tag:genegrey.github.io,2015-04-30:govhackwelly/isnt-hacking-bad.html</id><summary type="html">&lt;p&gt;GovHack ISN'T about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;cracking security or illegally accessing government data or services&lt;/li&gt;
+&lt;li&gt;getting devs to do free or cheap work for the government&lt;/li&gt;
+&lt;li&gt;hardware hacking, either.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It IS about:    &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;using data in new and interesting ways to solve social problems  &lt;/li&gt;
+&lt;li&gt;bringing together people from the public and private sectors to work together    &lt;/li&gt;
+&lt;li&gt;having fun, and building Cool Stuff. &lt;/li&gt;
+&lt;/ul&gt;</summary><category term="hacking"></category></entry></feed>
