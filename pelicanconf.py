@@ -18,9 +18,16 @@ THEME_PATHS = ['themes']
 THEME = 'themes/pelican-bootstrap3'
 
 BANNER = 'images/govhackwellingtonbanner.png'
-BANNER_SUBTITLE = 'empower.enable.connect'
+BANNER_SUBTITLE = 'empower.enable.connect || 3-5 July 2015'
 BANNER_ALL_PAGES = True
 #HEADER_IMAGE = 'images/GovHackFinalTaglineColourStickerStyle.png'
+
+#Plugins
+PLUGIN_PATH = 'plugins'
+
+#Tipue search
+PLUGINS = ['tipue_search']
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
 
 TIMEZONE = 'Pacific/Auckland'
 
@@ -58,7 +65,6 @@ DISPLAY_CATEGORIES_ON_MENU = False
 SHOW_ARTICLE_AUTHOR = True
 SHOW_ARTICLE_CATEGORY = True
 
-#Tipue search
-#PLUGINS = ['tipuesearch']
+
 
 

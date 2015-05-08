@@ -12,10 +12,22 @@ Summary: Lots of awesome info to help you have the best hackathon ever.
 We'll be putting useful videos, links and more here to help you have the best hackathon ever.
 
 
-## Videos
+##The data
 
-You're going to need to produce a 3 minute video if you want to submit your project to the awards :)
+Our data wranglers are on the hunt for excellent data sources for you - keep an eye out as we start to list them here.
 
-It may seem daunting, but have no fear! Check out this short video, and stay tuned for more resources soon.
+If you would like a specific dataset (or many), please tell us! We can't promise we can get it for you, but we'll do our best.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K-GiOtHN4FY" frameborder="0" allowfullscreen></iframe>
+[Request list for datasets (Google spreadsheet)](https://docs.google.com/spreadsheets/d/1naC_ufC59bbT_mdWryUDSTlRvnBt6dHoWXBvR-FJGTQ/edit?usp=sharing)
+
+##The video
+
+This should be _no_ _longer_ than 3 minutes. 
+
+We'll be posting up lots of useful tips and tricks for how to do this. There's also a video, made by GovHack Australia, with some great tips.
+
+[How to make your GovHack video](<iframe width="560" height="315" src="https://www.youtube.com/embed/K-GiOtHN4FY" frameborder="0" allowfullscreen></iframe>)
+
+##The Challengepost project page
+
+[GovHackWellington's project page on Challengepost](http://govhackwelly.challengepost.com/?preview_token=03COucfFFBLQNoQkxPbjPYjQmEIki2seJwf0fwGpxpY%3D)

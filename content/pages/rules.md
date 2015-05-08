@@ -12,4 +12,4 @@ Summary: While there are many rules at the hackathon, there are a few.
 While there aren't many rules at the hackathon, there are a few.
 
 * [Code of Conduct]({filename}/pages/codeofconduct.md)
-* Other rules TBA
+* [Eligibility, entries and judging criteria](http://www.govhack.org/competition-rules-code-of-conduct/#entries)
