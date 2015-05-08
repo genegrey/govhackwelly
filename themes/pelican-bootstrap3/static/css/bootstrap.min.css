@@ -3041,7 +3041,7 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
     font-size: 18px;
     line-height: 20px;
 }
-.navbar-brand:focus, .navbar-brand:hover {
+.navbar-brand:focus, .navbar-brand:hblock
     text-decoration: none;
 }
 .navbar-brand>img {

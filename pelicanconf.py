@@ -17,10 +17,15 @@ STATIC_PATHS = ['images']
 THEME_PATHS = ['themes']
 THEME = 'themes/pelican-bootstrap3'
 
-BANNER = 'images/govhackwellingtonbanner.png'
+# Logo & banner
+
+BANNER = '/images/plainwhitebanner.png'
 BANNER_SUBTITLE = 'empower.enable.connect || 3-5 July 2015'
 BANNER_ALL_PAGES = True
-#HEADER_IMAGE = 'images/GovHackFinalTaglineColourStickerStyle.png'
+
+SITELOGO = 'images/GovHackFinalNoTaglineColour.png'
+SITELOGO_SIZE = 40
+HIDE_SITENAME = True
 
 #Plugins
 PLUGIN_PATH = 'plugins'
