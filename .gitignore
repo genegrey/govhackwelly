@@ -1,7 +1,6 @@
 Makefile
 Fabfile.py
 *.pyc
-output
 cache
 pelican.pid
 srv.pid
