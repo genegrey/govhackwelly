@@ -1,5 +1,5 @@
 Title: Home
-URL: ../
+URL:
 Date: 2015-04-30 21:25
 Modified:
 save_as: index.html
