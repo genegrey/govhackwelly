@@ -2,6 +2,15 @@
     {% set DISPLAY_TAGS_ON_SIDEBAR = True %}
 {% endif %}
 
+<section class="sponsors">
+    <ul class="list-group list-group-flush">
+    <h3>Sponsored by</h3>
+	{% for title, link, image in SPONSORS %}
+		<a href="{{ link }}"><img src="{{ image }}" alt="{{ title }}" height="40"></a>
+	{% endfor %}
+    </ul>
+</section>
+
 <section class="well well-sm">
     <ul class="list-group list-group-flush">
         {% if SOCIAL %}
