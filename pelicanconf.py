@@ -55,6 +55,8 @@ LINKS = (('GovHack', 'http://www.govhack.org'),
 # Social widget
 SOCIAL = (('Facebook' , 'https://www.facebook.com/govhackwellington'),)
 
+SPONSORS = (('Fujitsu', 'http://fujitsu.co.nz', 'http://www.fujitsu.com/au/resources/design/stylesheets/images/css_images/fujitsu/symbolmark.gif'), ('Silverstripe', 'http://silverstripe.com', 'https://scontent.xx.fbcdn.net/hprofile-xta1/v/l/t1.0-1/p50x50/1800250_10150370979104946_1786160472_n.png?oh=7b816ea8eb311d5557994453022962af&oe=55C3A67C'))
+
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
