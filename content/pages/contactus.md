@@ -9,8 +9,23 @@ Lang: en
 Authors: aimee whitcroft
 Summary: Details for how to get in touch with the GovHack Wellington crew.
 
-Comments? Questions? Get in touch!
+Comments? Questions? Want to get involved in putting it all together?
 
-* Twitter
-* Email
-* FB
+Get in touch!
+
+* [humans@hackmiramar.org](mailto:humans@hackmiramar.org)
+* [Facebook](https://www.facebook.com/govhackwellington)
+* [Twitter (GovHackNZ)](http://www.twitter.com/govhacknz)
+* [Wiki](https://hack-miramar.wikispaces.com/)
+* [Mailing list](https://groups.google.com/forum/?hl=en#%21forum/hack-miramar)
+* ['Make it happen' weekly meetings](http://www.meetup.com/Wellington-GovHackNZ/)
+
+#What we need
+
+We need:
+
+* sponsors
+* people
+* data
+* tigers
+* love.

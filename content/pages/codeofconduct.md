@@ -9,7 +9,6 @@ Lang: en
 Authors: aimee whitcroft
 Summary: GovHack Wellington is dedicated to providing a harassment-free hackathon experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
 
-
 GovHack Wellington is dedicated to providing a harassment-free hackathon experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. 
 
 We do not tolerate harassment of hackathon participants in any form. Sexual language and imagery is not appropriate for any part of the hackathon venue, including talks.
@@ -20,19 +19,11 @@ Harassment includes verbal comments that reinforce social structures of dominati
 
 If a participant engages in harassing behavior, the hackathon organizers may take any action they deem appropriate, including warning the offender or expulsion from the hackathon. 
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the hackathon staff immediately. 
+**If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the hackathon staff immediately.** 
 
 Hackathon staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the hackathon. 
 
 We value your attendance.
-
-* [Email address for organizers]
-* [Phone number for hackathon security or organizers]
-* [Phone number for hotel/venue security]
-* [Local law enforcement]
-* [Local sexual assault hot line]
-* [Local emergency and non-emergency medical (e.g., urgent care, day clinic)]
-* [Local taxi company]
 
 We expect participants to follow these rules at all hackathon venues and hackathon-related social events.
 

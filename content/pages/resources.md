@@ -26,7 +26,7 @@ This should be _no_ _longer_ than 3 minutes.
 
 We'll be posting up lots of useful tips and tricks for how to do this. There's also a video, made by GovHack Australia, with some great tips.
 
-[How to make your GovHack video](<iframe width="560" height="315" src="https://www.youtube.com/embed/K-GiOtHN4FY" frameborder="0" allowfullscreen></iframe>)
+[How to make your GovHack video (YouTube vid with subtitles)](https://www.youtube.com/watch?v=K-GiOtHN4FY)
 
 ##The Challengepost project page
 
