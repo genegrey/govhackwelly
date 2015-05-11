@@ -13,7 +13,7 @@ Comments? Questions? Want to get involved in putting it all together?
 
 Get in touch!
 
-* [humans@hackmiramar.org](mailto:humans@hackmiramar.org)
+* [govhackwelly@gmail.com](mailto:govhackwelly@gmail.com)
 * [Facebook](https://www.facebook.com/govhackwellington)
 * [Twitter (GovHackNZ)](http://www.twitter.com/govhacknz)
 * [Wiki](https://hack-miramar.wikispaces.com/)
