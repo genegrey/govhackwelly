@@ -18,7 +18,7 @@ It's open to everyone interested in using open government data to build new apps
 In Wellington, it'll be held:
 
 * from evening 3 July to late afternoon 5 July
-* at the Ministry of Business, Innovation and Education (Stout Street).
+* at the Ministry of Business, Innovation and Employment (Stout Street).
 
 [More detailed details]({filename}/pages/about.md)
 
