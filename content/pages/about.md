@@ -11,6 +11,19 @@ Summary: GovHack Wellington is all about bringing together coders, artists, stor
 
 GovHack Wellington is all about bringing together coders, artists, storytellers, observers, communicators and more, from the private, public, NGO and academic sectors.
 
+#The cities
+
+GovHack is running in both Australia _and_ New Zealand this year, in:
+
+* Wellington
+* Auckland
+* Dunedin
+* Gisborne
+* Whanganui
+* Whangarei
+* [14 locations in Australia](http://www.govhack.org/locations/).
+
+
 ##The brief
 
 _Use government data in new and interesting ways to tackle existing problems._

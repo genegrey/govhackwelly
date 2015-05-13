@@ -38,3 +38,13 @@ In Wellington, it'll be held:
 10. To share your ideas
 11. To try out new technology
 
+##Previous years
+
+Curious about what was created in previous GovHack events?
+
+Check out the:
+
+* [2014 winners](http://www.govhack.org/2014-winners/)
+* [2013 winners](http://www.govhack.org/2013-winners/)
+* [2012 winners](http://www.govhack.org/2012-winners/).
+
