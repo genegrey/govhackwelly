@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'aimee whitcroft'
 SITENAME = u'GovHack Wellington'
-SITEURL = ''
+SITEURL = 'https://govhackwellington.nz'
 
 PATH = 'content'
 
@@ -12,7 +12,8 @@ PAGE_PATHS = ['pages']
 
 ARTICLE_PATHS = ['articles']
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 THEME_PATHS = ['themes']
 THEME = 'themes/pelican-bootstrap3'
