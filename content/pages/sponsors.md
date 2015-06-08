@@ -11,7 +11,7 @@ Summary: The following companies are wonderful sponsors of the Wellington event,
 
 The following companies are wonderful sponsors of the Wellington event, we are also grateful to all the national and international sponsors - see the complete list at [govhack.org/#supporters](http://govhack.org.nz/#supporters).
 
-#2015 sponsors
+##2015 sponsors
 
 <a href="http://www.silverstripe.com" alt="silverstripe logo"><img src ="/images/silverstripe-logo.png" style="display: block; margin: auto;"></a>
 
@@ -71,7 +71,7 @@ Without [Propellerhead](http://www.propellerhead.co.nz/) there would be no GovHa
 
 Without a venue we are toast, thanks so much to the team at [MBIE](http://mbie.govt.nz/) for, at a very early stage, stepping up and offering the the entire ground floor of their new [5 Stout Street](https://www.google.co.nz/maps/place/Ministry+Of+Business+Innovation+And+Employment/@-41.28124,174.776851,15z/data=!4m2!3m1!1s0x0:0xff19a7819b1d2eee?sa=X&ei=1C9tVerdEMGk8AXHn4GoBg&ved=0CIkBEPwSMAs) premises!
 
-#Past sponsors
+##Past sponsors
 
 We are eternally gratefully for all those that have stepped up and supported our endeavours. 
 
