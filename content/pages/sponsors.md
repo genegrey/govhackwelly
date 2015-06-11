@@ -71,6 +71,12 @@ Without [Propellerhead](http://www.propellerhead.co.nz/) there would be no GovHa
 
 Without a venue we are toast, thanks so much to the team at [MBIE](http://mbie.govt.nz/) for, at a very early stage, stepping up and offering the the entire ground floor of their new [5 Stout Street](https://www.google.co.nz/maps/place/Ministry+Of+Business+Innovation+And+Employment/@-41.28124,174.776851,15z/data=!4m2!3m1!1s0x0:0xff19a7819b1d2eee?sa=X&ei=1C9tVerdEMGk8AXHn4GoBg&ved=0CIkBEPwSMAs) premises!
 
+&nbsp;
+
+<a href="https://www.facebook.com/webbstreetbrewery" alt="Webb St Brewery logo"><img src="/images/webb-st-brewery-logo.png" style="display: block; margin: auto;"></a>
+
+The brewers and suppliers of a specially-made GovHack beer! From humble beginnings brewing out of a garage on Webb St in Wellington, [Webb St Brewery](https://www.facebook.com/webbstreetbrewery) has now moved its operation to the Occasional Brewer on Victoria Street. They brew small batches of experimental beers as well as refined interpretations of classic styles.
+
 ##Past sponsors
 
 We are eternally gratefully for all those that have stepped up and supported our endeavours. 
