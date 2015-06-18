@@ -83,3 +83,8 @@ The brewers and suppliers of a specially-made GovHack beer! From humble beginnin
 
 The Innovation team from [Air New Zealand](http://www.airnewzealand.co.nz/) will be at AKL and WLG - thanks so much for their enthusiasm and CIO support.
 
+&nbsp;
+
+<a href="http://www.hackmiramar.org/" alt="Hack Miramar logo"><img src="/images/hack-miramar-logo.jpg" style="display: block; margin: auto;"></a>
+
+Thanks [Hack Miramar](http://www.hackmiramar.org/) for being the catalyst for making our event happen and for representing us at the national level.
