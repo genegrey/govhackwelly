@@ -77,8 +77,9 @@ Without a venue we are toast, thanks so much to the team at [MBIE](http://mbie.g
 
 The brewers and suppliers of a specially-made GovHack beer! From humble beginnings brewing out of a garage on Webb St in Wellington, [Webb St Brewery](https://www.facebook.com/webbstreetbrewery) has now moved its operation to the Occasional Brewer on Victoria Street. They brew small batches of experimental beers as well as refined interpretations of classic styles.
 
-##Past sponsors
+&nbsp;
 
-We are eternally gratefully for all those that have stepped up and supported our endeavours. 
+<a href="http://www.airnewzealand.co.nz/" alt="Air NZ logo"><img src="/images/AirNZ-logo.jpg" style="display: block; margin: auto;"></a>
 
-[See past GovHack sponsors](http://www.hackmiramar.org/past-sponsors)
+The Innovation team from [Air New Zealand](http://www.airnewzealand.co.nz/) will be at AKL and WLG - thanks so much for their enthusiasm and CIO support.
+
