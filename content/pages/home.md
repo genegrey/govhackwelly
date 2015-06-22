@@ -22,7 +22,10 @@ In Wellington, it'll be held:
 
 [More detailed details]({filename}/pages/about.md)
 
+##Register
 [Register for GovHack Wellington](http://www.eventbrite.co.nz/e/govhack-wellington-tickets-16287880489)
+
+[Get your very own GovHack tshirt or hoodie](http://govhack.org.nz/register/)
 
 ##Reasons to GovHack
 
