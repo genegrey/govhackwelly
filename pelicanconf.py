@@ -21,10 +21,10 @@ THEME = 'themes/pelican-bootstrap3'
 # Logo & banner
 
 BANNER = '/images/plainwhitebanner.png'
-BANNER_SUBTITLE = 'bringing order to chaos'
+BANNER_SUBTITLE = 'empower.enable.connect || 3-5 July 2015'
 BANNER_ALL_PAGES = True
 
-#SITELOGO = 'images/GovHackFinalNoTaglineColour.png'
+SITELOGO = 'images/GovHackFinalNoTaglineColour.png'
 SITELOGO_SIZE = 40
 HIDE_SITENAME = True
 
