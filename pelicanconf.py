@@ -56,7 +56,21 @@ LINKS = (('GovHack', 'http://www.govhack.org'),
 # Social widget
 SOCIAL = (('Facebook' , 'https://www.facebook.com/govhackwellington'),)
 
-SPONSORS = (('Fujitsu', 'http://fujitsu.co.nz', 'http://www.fujitsu.com/au/resources/design/stylesheets/images/css_images/fujitsu/symbolmark.gif'), ('Silverstripe', 'http://silverstripe.com', 'https://scontent.xx.fbcdn.net/hprofile-xta1/v/l/t1.0-1/p50x50/1800250_10150370979104946_1786160472_n.png?oh=7b816ea8eb311d5557994453022962af&oe=55C3A67C'))
+SPONSORS = (
+    ('Silverstripe', 'http://silverstripe.com', 'silverstripe-logo.png'),
+    ('Catalyst', 'http://catalyst.net.nz', 'catalyst-logo.png'),
+    ('Vend', 'https://www.vendhq.com/', 'vend-logo.png'),
+    ('Optimal Bi', 'http://optimalbi.com/', 'optimalbi-logo.png'),
+    ('Optimal People', 'http://www.optimalpeople.co.nz/', 'optimal-people-logo.png'),
+    ('Air New Zealand', 'http://airnz.co.nz', 'AirNZ-logo.jpg'),
+    ('IWantMyName', 'http://iwmn.com', 'iwantmyname-logo.png'),
+    ('NZ Rise', 'http://nzrise.org.nz', 'nzrise-logo.png'),
+    ('MBIE', 'http://mbie.govt.nz', 'mbie-logo.png'),
+    ('Webb Street Brewery', 'https://www.facebook.com/webbstreetbrewery', 'webb-st-brewery-logo.png'),
+    ('Propellerhear', 'http://www.propellerhead.co.nz/', 'propellerhead-logo.png'),
+    ('Rabid Tech', 'http://rabid.co.nz', 'rabid-logo.png'),
+    ('Hack Miramar', 'http://www.hackmiramar.org/', 'hack-miramar-logo.jpg')
+    )
 
 DEFAULT_PAGINATION = 10
 
