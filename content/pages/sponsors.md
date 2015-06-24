@@ -13,6 +13,12 @@ The following companies are wonderful sponsors of the Wellington event, we are a
 
 ##2015 sponsors
 
+<a href="http://www8.hp.com/nz/en/home.html" alt="HP logo"><img src ="/images/HP-logo.png" style="display: block; margin: auto;"></a>
+
+[HP](http://www8.hp.com/nz/en/home.html) are the New Zealand-wide titanium GovHackNZ sponsor as well as providing fun and support at the Wellington event. Let's get racing!
+
+&nbsp;
+
 <a href="http://www.silverstripe.com" alt="silverstripe logo"><img src ="/images/silverstripe-logo.png" style="display: block; margin: auto;"></a>
 
 One of our inaugral sponsors and a log time advocate of open source. Thanks so much [Silverstripe](http://www.silverstripe.com/)!
@@ -70,6 +76,12 @@ Without [Propellerhead](http://www.propellerhead.co.nz/) there would be no GovHa
 <a href="http://mbie.govt.nz" alt="mbie logo"><img src="/images/mbie-logo.png" style="display: block; margin: auto;"></a>
 
 Without a venue we are toast, thanks so much to the team at [MBIE](http://mbie.govt.nz/) for, at a very early stage, stepping up and offering the the entire ground floor of their new [5 Stout Street](https://www.google.co.nz/maps/place/Ministry+Of+Business+Innovation+And+Employment/@-41.28124,174.776851,15z/data=!4m2!3m1!1s0x0:0xff19a7819b1d2eee?sa=X&ei=1C9tVerdEMGk8AXHn4GoBg&ved=0CIkBEPwSMAs) premises!
+
+&nbsp;
+
+<a href="http://www.fujitsu.com/nz/" alt="Fujitsu logo"><img src="/images/fujitsu-logo.png" style="display: block; margin: auto;"></a>
+
+[Fujitsu](http://www.fujitsu.com/nz/) have worked hard with our events team to ensure all the rough edges are smoothed away, thanks so much for their ongoing support.
 
 &nbsp;
 

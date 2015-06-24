@@ -57,6 +57,7 @@ LINKS = (('GovHack', 'http://www.govhack.org'),
 SOCIAL = (('Facebook' , 'https://www.facebook.com/govhackwellington'),)
 
 SPONSORS = (
+    ('HP', 'http://www8.hp.com/nz/en/home.html', 'HP-logo.png'),
     ('Silverstripe', 'http://silverstripe.com', 'silverstripe-logo.png'),
     ('Catalyst', 'http://catalyst.net.nz', 'catalyst-logo.png'),
     ('Vend', 'https://www.vendhq.com/', 'vend-logo.png'),
@@ -66,6 +67,7 @@ SPONSORS = (
     ('IWantMyName', 'http://iwmn.com', 'iwantmyname-logo.png'),
     ('NZ Rise', 'http://nzrise.org.nz', 'nzrise-logo.png'),
     ('MBIE', 'http://mbie.govt.nz', 'mbie-logo.png'),
+    ('Fujitsu', 'http://www.fujitsu.com/nz/', 'fujitsu-logo.png'),
     ('Webb Street Brewery', 'https://www.facebook.com/webbstreetbrewery', 'webb-st-brewery-logo.png'),
     ('Propellerhear', 'http://www.propellerhead.co.nz/', 'propellerhead-logo.png'),
     ('Rabid Tech', 'http://rabid.co.nz', 'rabid-logo.png'),
