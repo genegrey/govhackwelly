@@ -41,6 +41,8 @@ In Wellington, it'll be held:
 10. To share your ideas
 11. To try out new technology
 
+[Check out the awesome video we made!](https://www.youtube.com/watch?v=pgBh1xeWaIk )
+
 ##Previous years
 
 Curious about what was created in previous GovHack events?
