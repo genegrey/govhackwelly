@@ -93,6 +93,12 @@ _If you're registered and haven't received your unique Uber code by 5pm Thursday
 
 &nbsp;
 
+<a href="http://www.intergraph.com/global/nz/" alt="Intergraph logo"><img src="/images/intergraph-logo.png" style="display: block; margin: auto;"></a>
+
+[Intergraph](http://www.intergraph.com/global/nz/) are supporting the infrastructure for GovHack Wellington and supplying data feeds from the Mobile Alert crowdsourcing app, along with access to the Intergraph EdgeFrontier integration toolset. They're also supporting an award to entrants working with public safety and security or real-time event and incident data. Awesome stuff :)
+
+&nbsp;
+
 <a href="https://www.facebook.com/webbstreetbrewery" alt="Webb St Brewery logo"><img src="/images/webb-st-brewery-logo.png" style="display: block; margin: auto;"></a>
 
 The brewers and suppliers of a specially-made GovHack beer! From humble beginnings brewing out of a garage on Webb St in Wellington, [Webb St Brewery](https://www.facebook.com/webbstreetbrewery) has now moved its operation to the Occasional Brewer on Victoria Street. They brew small batches of experimental beers as well as refined interpretations of classic styles.
