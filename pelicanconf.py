@@ -61,7 +61,7 @@ SPONSORS = (
     ('Silverstripe', 'http://silverstripe.com', 'silverstripe-logo.png'),
     ('Catalyst', 'http://catalyst.net.nz', 'catalyst-logo.png'),
     ('Vend', 'https://www.vendhq.com/', 'vend-logo.png'),
-    ('Uber', 'https://www.uber.com/cities/wellington', 'uber-logo.png')
+    ('Uber', 'https://www.uber.com/cities/wellington', 'uber-logo.png'),
     ('Optimal Bi', 'http://optimalbi.com/', 'optimalbi-logo.png'),
     ('Optimal People', 'http://www.optimalpeople.co.nz/', 'optimal-people-logo.png'),
     ('Air New Zealand', 'http://airnz.co.nz', 'AirNZ-logo.jpg'),
