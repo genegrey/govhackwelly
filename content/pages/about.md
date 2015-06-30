@@ -51,7 +51,7 @@ We're not sure what yet, but they'll be amazing!
 * **Venue:** Ground floor, Ministry of Business, Innovation and Employment,  [15 Stout Street, Wellington](https://goo.gl/maps/poy6l)
 * **Cost:** Free
 
-There is also an afterparty and awards event on Wednesday, 15 July.
+There will also be a showcase and awards goodness in late July/early August. Stay tuned for details!
 
 [Register for GovHack Wellington](http://www.eventbrite.co.nz/e/govhack-wellington-tickets-16287880489)
 
