@@ -31,3 +31,16 @@ It's not nearly as scary as it sounds, and to help you out we've put together so
 ##The Challengepost project page
 
 [GovHackWellington's project page on Challengepost](http://govhackwelly.challengepost.com/?preview_token=03COucfFFBLQNoQkxPbjPYjQmEIki2seJwf0fwGpxpY%3D)
+
+##Amazon Web Services AWS credits
+
+Amazon Web Services will provide $100 in free AWS credits to teams and individuals who wish to use Amazon Web Services resources. Please [click here](https://aws.amazon.com/activate/event/ghnz15/) to request and redeem your AWS credits.
+The credit also includes access to other AWS resources, including:
+
+* 1 month AWS Support (Business level)
+* “AWS Technical Professional” training
+* “AWS Essentials” training
+* 8 self-paced labs
+* 1:1 Office Hours with AWS Solutions Architects
+* Startup Forum
+* Special “Self-Starter” third-party offers
