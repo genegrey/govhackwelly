@@ -24,9 +24,9 @@ If you would like a specific dataset (or many), please tell us! We can't promise
 
 This should be _no_ _longer_ than 3 minutes. 
 
-We'll be posting up lots of useful tips and tricks for how to do this. There's also a video, made by GovHack Australia, with some great tips.
+It's not nearly as scary as it sounds, and to help you out we've put together some tips. It's an open document, so if you have anything useful to add, go for it :)
 
-[How to make your GovHack video (YouTube vid with subtitles)](https://www.youtube.com/watch?v=K-GiOtHN4FY)
+[Video presentation tips (Google doc)](https://docs.google.com/document/d/1sGjK9XOWOf0WAaeE0SYpTtCKrKTuns_yv0MJ_HLerFI/edit?usp=sharing)
 
 ##The Challengepost project page
 
