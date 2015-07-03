@@ -18,7 +18,7 @@ Our data wranglers are on the hunt for excellent data sources for you - keep an 
 
 If you would like a specific dataset (or many), please tell us! We can't promise we can get it for you, but we'll do our best.
 
-[Request list for datasets (Google spreadsheet)](https://docs.google.com/spreadsheets/d/1naC_ufC59bbT_mdWryUDSTlRvnBt6dHoWXBvR-FJGTQ/edit?usp=sharing)
+[Data inventory (Google spreadsheet)](https://docs.google.com/spreadsheets/d/1n7pddL_Gn3MH1jOcWSRiggf9aL1aAUHM4XbimJ8xGaE/edit?usp=sharing)
 
 ##The video
 
